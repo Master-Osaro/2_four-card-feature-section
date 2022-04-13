@@ -7,8 +7,13 @@ main{
     margin-bottom: 50px;
 }
 
-main h1 {
+main h1, .features section h3 {
+    color: #4c4e61;
     line-height: 150%;
+}
+
+main p, .features section p {
+    color: #85868e;
 }
 
 .header_light{
