@@ -16,6 +16,10 @@ main h1, .features section h2 {
     line-height: 150%;
 }
 
+.features section h2 {
+    font-size: 1.35rem;
+}
+
 main p, .features section p {
     color: #85868e;
 }
